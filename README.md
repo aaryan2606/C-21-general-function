@@ -1,1 +1,2 @@
-# C-21-general-function
+# collisionAlgorithm
+Algorithm to detect collision between two objects
